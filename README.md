@@ -1,9 +1,9 @@
-#### Shelltools
+# Shelltools
 Shelltools is a personal shellscript used to increase efficiency when working on bash. However, this is used sparingly to ensure that familiarity with default bash commands such as sed will not be compromised when working on non-personalised linux platforms. Pull requests for adding useful commands are greatly welcomed.
 
 If you would like to use these shortcuts, please scroll below for the steps to do so.
 
-### Usage
+## Usage
 Before we begin, note that this shellscript has only been tested on MacOS. Some of the commands/instructions below will differ slightly on other linux systems such as CentOS or Ubuntu. If you need help with any of these systems, kindly reach out to me through email or open an issue. The steps to add these shortcuts are as below:
 1. Open up your terminal and cd to your desktop with the following command:
 ```

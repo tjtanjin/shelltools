@@ -1,4 +1,0 @@
-Put the file shelltools on Desktop
-Add to last line of ~/.zshrc source ~/Desktop/shelltools/setupshell.sh.
-Execute 'chmod +x ~/Desktop/shelltools/setupshell.sh' on the command line.
-Execute 'sh ~/Desktop/shelltools/setupshell.sh'.
